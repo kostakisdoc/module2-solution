@@ -87,8 +87,8 @@ p {
 
 /* RESPONSIVE MEDIA CODE */
 /*************************/
-/* Screens 991px or less */
-@media screen and (max-width: 991px) {
+/* Screens 992px or less */
+@media screen and (max-width: 992px) {
 	
     #column1 {
 	width: 45%;
@@ -126,8 +126,8 @@ p {
 	
 }
 
-/* Screens 767px or less */
-@media screen and (max-width: 767px) {
+/* Screens 768px or less */
+@media screen and (max-width: 768px) {
 	
     #column1 {
 	width: auto;
